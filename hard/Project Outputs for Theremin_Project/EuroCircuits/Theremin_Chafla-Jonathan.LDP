@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\jonchafla\OneDrive - Education Vaud\Users\Jonathan Chafla\ETML\ES\21-22\PCAO\Theremin_Jonathan_Chafla\Theremin_Chafla-Jonathan.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=theremin_chafla-jonathan-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=theremin_chafla-jonathan-slotholes.txt|DrillLayers=gtl,gbl

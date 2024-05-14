@@ -1,0 +1,11 @@
+nom du projet : Théremin
+no de projet  : 2204
+date          : 26.06.2023
+
+explicatif du projet:
+---------------------
+
+Le projet 2204_Théremin a été conçu par les étudiants de première année en électronique à l’Ecole Supérieure pour la branche de PCAO durant les années 2022 - 2023.
+
+Dans le cadre du cours de POBJ (programmation orienté objet), ce projet a été repris dont l’objectif principal est de créer « l’squelette » du programme permettant la communication avec les divers périphériques du système avec un microcontrôleur de type PIC18F4550-I/PT. 
+

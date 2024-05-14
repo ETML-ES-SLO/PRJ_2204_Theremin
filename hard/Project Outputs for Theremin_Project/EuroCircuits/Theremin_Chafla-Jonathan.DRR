@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Theremin_Chafla-Jonathan.PcbDoc   02.06.2022  12:29:00
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Theremin_Chafla-Jonathan-RoundHoles.TXT
+ASCII SlotHoles File : Theremin_Chafla-Jonathan-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             87        PTH        652.81mm (25.70inch)
+T2      0.305mm (12mil)                                           Round             72        PTH        995.30mm (39.18inch)
+T3      0.65mm (26mil)                                            Slot              2         PTH        9.30mm (0.37inch)
+T4      0.825mm (32mil)                                           Slot              2         PTH        18.08mm (0.71inch)
+T5      1mm (39mil)                                               Round             9         PTH        26.02mm (1.02inch)
+T6      1.1mm (43mil)                                             Round             8         PTH        82.24mm (3.24inch)
+T7      1.3mm (51mil)                                             Round             4         PTH        49.00mm (1.93inch)
+T8      1.6mm (63mil)                                             Round             14        PTH        228.80mm (9.01inch)
+T9      4.5mm (177mil)                                            Round             4         PTH        451.34mm (17.77inch)
+T10     2.388mm (94mil)                                           Round             1         NPTH       0.00mm (0.00inch)
+T11     3.45mm (136mil)                                           Round             2         NPTH       57.52mm (2.26inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              205
+
+Total Processing Time (hh:mm:ss) : 00:00:00
