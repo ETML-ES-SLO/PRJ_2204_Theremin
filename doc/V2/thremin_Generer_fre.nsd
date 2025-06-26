@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:nsd="https://structorizer.fisch.lu" version="3.30-10" preRepeat="jusqu'à " postFor="à" preReturn="return" postForIn="in" preWhile="tant que " output="écrire" input="lire" preFor="pour " preExit="exit" preLeave="leave" ignoreCase="true" preThrow="throw" preForIn="foreach" stepFor="by" author="???" changedby="dambignens" changed="2024-06-11" origin="Structorizer &#60; 3.23-12 (legacy NSD file)" text="&#34;Fonction Generer_fre&#34;,&#34;&#34;,&#34;Createur: Damien Bignens&#34;,&#34;&#34;,&#34;Date : 30.04.2024&#34;,&#34;&#34;,&#34;Params d'entre: &#34;,&#34;Params de sortie:&#34;" comment="&#34;&#34;" color="ffffff" type="sub" style="nice">
+	<children>
+		<instruction text="&#34;Conversion de la valeur de la fréquence pour le timer&#34;" comment="&#34;&#34;" color="ffffff" rotated="0" disabled="0"></instruction>
+		<instruction text="&#34;changer la valeur de tick du TIMER &#34;" comment="&#34;&#34;" color="ffffff" rotated="0" disabled="0"></instruction>
+	</children>
+</root>
